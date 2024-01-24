@@ -1,12 +1,38 @@
+nav {
+    background-color: #0e0548;
+}
+.btn btn-primary {
+    color: #0e0548;
+}
+.row text-center mb-3 {
+    color : black
+}
 .jumbotron {
     padding-top: 6rem;
-    background-color: #e2edff;
+    background-color: #0e0548;
+    color: #ffffff;
 }
 
 #project {
-    background-color: #e2edff;
+    background-color: #0e0548;
+}
+
+#white-h2 {
+    color: #ffffff;
 }
 
 section {
     padding-top: 6rem;
+}
+.text-white text-center pb-5 {
+    color: #0e0548;
+}
+
+#footer {
+    background-color: #0e0548;
+}
+
+li:hover {
+    color: #0e0548;
+    text-decoration: none;
 }
