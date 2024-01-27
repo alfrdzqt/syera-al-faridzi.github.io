@@ -31,8 +31,3 @@ section {
 #footer {
     background-color: #0e0548;
 }
-
-li:hover {
-    color: #0e0548;
-    text-decoration: none;
-}
